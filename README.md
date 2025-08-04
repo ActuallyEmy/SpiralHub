@@ -1,2 +1,2 @@
 # Starlit lookout
-A place to upload enrichment documents for making custom AIs
+Still figuring out github, trying to upload right now
